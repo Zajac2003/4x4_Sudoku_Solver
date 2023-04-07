@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658854712 source:c:\codeblocks\dsa\sudokudojadecie\main.cpp
+	<iostream>
+	<windows.h>
+
